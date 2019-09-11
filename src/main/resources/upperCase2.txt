@@ -1,0 +1,1 @@
+in mixed case with the first letter of each internal word capitalized
